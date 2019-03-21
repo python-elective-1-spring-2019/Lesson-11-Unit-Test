@@ -15,3 +15,4 @@ Agenda 22-03-2019
 
 
 ## Exercises
+* [Calculator exercise](exercises/)
