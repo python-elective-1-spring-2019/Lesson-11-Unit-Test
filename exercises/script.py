@@ -1,4 +1,4 @@
-from calculater_1 import Calculater
+from calculater import Calculater
 
 
 def main():
