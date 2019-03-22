@@ -1,7 +1,5 @@
 """ Calculater class that can add, subtrack, multiply and devide """
 
-# https://stackify.com/unit-testing-basics-best-practices/
-
 class Calculater:
 
     """ init takes 0 arguments """
