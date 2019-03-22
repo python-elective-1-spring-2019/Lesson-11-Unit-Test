@@ -10,9 +10,7 @@ class Calculater:
 
         # you should here create two instance variables
         # total and error_msg
-
-        self.total = 0
-        self.error_msg = ''
+        pass
 
     def add(self, num):
         """ Add takes 1 argument an 'int' or 'float', 
@@ -20,8 +18,7 @@ class Calculater:
 
         # Think of possible errors that could happen, 
         # and make tests for these errors
-        
-        self.total += num
+        pass
 
     def subtrack(self):
         pass
@@ -30,19 +27,5 @@ class Calculater:
         pass
 
     def devide(self):
-        pass
-
-    def __str__(self):
-        """ Returns 'total' or 'Error message' """
-
-        if self.error_msg != '':
-            self.temp = self.error_msg
-            self.error_msg = ''
-            return self.temp
-
-        return str(self.total)
+        pass    
     
-    
-    def display(self):
-        """ Returns 'total' or 'Error message' """
-        return str(self.total)

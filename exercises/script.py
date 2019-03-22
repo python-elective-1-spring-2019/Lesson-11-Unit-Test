@@ -20,8 +20,6 @@ def main():
         else:
             pass
 
-        # print(calc)
-
 
 if __name__ == "__main__":
     main()
